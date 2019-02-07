@@ -12,5 +12,9 @@ div{
 height:100px;
 background-color:green;}
 #stop{
-    background-color:red
+    background-color:red;
+}
+.bigtext{font-size:30px;
+    background-color:beige
+
 }
